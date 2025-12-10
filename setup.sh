@@ -7,7 +7,7 @@ set +x
 # ────────────────────────────────────────────────
 # Install packages
 # ────────────────────────────────────────────────
-sudo pacman -Sy --noconfirm fish neofetch curl git neovim
+sudo pacman -Sy --noconfirm fish fastfetch curl git neovim
 
 # ────────────────────────────────────────────────
 # Fish shell setup
